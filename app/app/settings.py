@@ -35,7 +35,7 @@ ALLOWED_HOSTS.extend(
         )
 
 
-# Application definition
+# Application definition test
 
 INSTALLED_APPS = [
     'django.contrib.admin',
